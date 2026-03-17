@@ -2,12 +2,14 @@
 
 <br/>
 
-██╗███╗   ██╗████████╗███████╗██╗          █████╗ ██╗    ██████╗  █████╗ ████████╗ █████╗ 
+```
+ ██╗███╗   ██╗████████╗███████╗██╗          █████╗ ██╗    ██████╗  █████╗ ████████╗ █████╗ 
  ██║████╗  ██║╚══██╔══╝██╔════╝██║         ██╔══██╗██║    ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗
  ██║██╔██╗ ██║   ██║   █████╗  ██║         ███████║██║    ██║  ██║███████║   ██║   ███████║
  ██║██║╚██╗██║   ██║   ██╔══╝  ██║         ██╔══██║██║    ██║  ██║██╔══██║   ██║   ██╔══██║
  ██║██║ ╚████║   ██║   ███████╗███████╗    ██║  ██║██║    ██████╔╝██║  ██║   ██║   ██║  ██║
  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚══════╝    ╚═╝  ╚═╝╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
 ### **Connecting Data to Intelligence**
 *Your trusted partner in AI data collection & preparation*
@@ -16,8 +18,8 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-intelaidata.com-00BFFF?style=for-the-badge)](https://www.intelaidata.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-intel--ai--data-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/intel-ai-data)
-[![Email](https://img.shields.io/badge/Email-info@intelaidata.com-00BFFF?style=for-the-badge&logo=gmail)](mailto:info@intelaidata.com)
-[![Phone](https://img.shields.io/badge/Phone-+91--6376113657-00BFFF?style=for-the-badge&logo=phone)](tel:+916376113657)
+[![Email](https://img.shields.io/badge/Email-info@intelaidata.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@intelaidata.com)
+[![Phone](https://img.shields.io/badge/Phone-+91--6376113657-00BFFF?style=for-the-badge)](tel:+916376113657)
 
 <br/>
 
@@ -184,6 +186,6 @@ At Intel AI, we combine **innovation, precision, and scalability** to help busin
 
 *© Intel AI Data — Connecting Data to Intelligence*
 
-**🌟 If you're interested in partnering with us, reach out at [info@intelaidata.com](mailto:info@intelaidata.com)**
+**🌟 Interested in partnering with us? Reach out at [info@intelaidata.com](mailto:info@intelaidata.com)**
 
 </div>
